@@ -1,0 +1,124 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.flex{
+    display: flex;
+    justify-content:center;
+
+}
+
+.flexDois{
+    display: flex;
+
+
+}
+
+.underline{
+    text-decoration: underline #ff6a00 1rem ;
+}
+
+.colorOrange{
+    color: #ff6a00;
+}
+
+.bg-Orange{
+    background-color: #ff6a00;
+}
+
+#talTreco{
+
+    height: 80vh;
+}
+
+#outra{
+    background-image: url(../imgs/background-barbudo.jpg);
+    height: 90vh;
+}
+
+#outraoutra{
+    background-image: url(../imgs/background-sniper.jpg);
+    height: 90vh;
+}
+
+#outraSegunda{
+    background-image: url(../imgs/background-parrudo.jpg);
+    height: 90vh;
+}
+
+
+.tracoUm{
+    height: 1vh;
+    margin-top: -0.5%;
+}
+
+.tracoCinco{
+    height: 5vh;
+    margin-top: -0.5%;
+}
+
+.text-right{
+    text-align: right;
+}
+
+#degrade{
+    background-image: url(../imgs/Rectangle\ 12.svg);
+}
+
+#cardUm{
+    background-image: url(../imgs/Rectangle\ 13\(1\).png);
+    height: 80vh;
+}
+
+#cardDois{
+    background-image: url(../imgs/cardDois.png);
+    height: 80vh;
+}
+
+#cardTres{
+    background-image: url(../imgs/cardTres.png);
+    height: 80vh;
+}
+
+#cardQuatro{
+    background-image: url(../imgs/cardQuatro.jpg);
+    height: 80vh;
+}
+
+.preco{
+    margin-top: 150%;
+}
+
+.bkUm{
+    background-image: url(../imgs/imagemUm.png);
+}
+
+
+.imgs{
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+
+.imagem{
+    height: 100%;
+    width: 45vw;
+}
+
+.border{
+    border-radius: 15px;
+    border: 20px solid;
+}
+
+.zindex{
+    margin-top: -25%;
+    margin-bottom: -15%;
+    position: absolute;
+    
+}
+
+.zindexDois{
+    margin-top: -15%;
+
+    position: absolute;
+}
